@@ -1,0 +1,21 @@
+body{
+    background-image: url("images/leaf.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+input{
+    display: block;
+    margin-bottom: 15px;
+
+    
+    
+}
